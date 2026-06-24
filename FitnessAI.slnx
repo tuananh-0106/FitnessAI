@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FitnessAI.API/FitnessAI.API.csproj" />
+  <Project Path="FitnessAI.Application/FitnessAI.Application.csproj" />
+  <Project Path="FitnessAI.Domain/FitnessAI.Domain.csproj" />
+  <Project Path="FitnessAI.Infrastructure/FitnessAI.Infrastructure.csproj" />
+</Solution>
